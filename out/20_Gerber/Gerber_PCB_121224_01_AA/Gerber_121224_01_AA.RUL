@@ -1,0 +1,12 @@
+DRC Rules Export File for PCB: C:\WORKS\Project\12122024_ZebraElektronik\P2_Donanim\trunk\PCB_121224_01AA\pcb\PCB_121224_01AA.PcbDoc
+RuleKind=Clearance|RuleName=DIFF_RS485_CLEARANCE|Scope=Board|Minimum=7.95
+RuleKind=Clearance|RuleName=DIFF_CAN_CLEARANCE|Scope=Board|Minimum=7.95
+RuleKind=Clearance|RuleName=CAN_CLEARANCE|Scope=Board|Minimum=20.00
+RuleKind=Clearance|RuleName=UART_CLEARANCE|Scope=Board|Minimum=20.00
+RuleKind=Width|RuleName=SINGLENDED_CAN|Scope=Board|Minimum=7.87
+RuleKind=Width|RuleName=SINGLENDED_UART|Scope=Board|Minimum=7.87
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing|Scope=Board|Minimum=5.12
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=5.98
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=5.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00

@@ -1,0 +1,10 @@
+Output: Test Point Report
+Type  : Test Points
+From  : PCB Document [PCB_121224_01AA.PcbDoc]
+   Generated File[Gerber_121224_01_AA.ipc]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 16:23:03 On 16.12.2024
