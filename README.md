@@ -3,7 +3,7 @@
 
 Motor Driver Card With RS485 And CAN-BUS
 
-1x Isolated RS485
+1x Isolated RS485  
 1x Isolated CAN-BUS  
 1x DC- Brushled Motor
 
