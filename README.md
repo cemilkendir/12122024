@@ -15,4 +15,3 @@ Motor Driver Card With RS485 And CAN-BUS
 <img src="https://github.com/cemilkendir/12122024/blob/main/Photos/Photo02.PNG"  width="800px"/> 
 <img src="https://github.com/cemilkendir/12122024/blob/main/Photos/Photo03.PNG"  width="800px"/> 
 <img src="https://github.com/cemilkendir/12122024/blob/main/Photos/Photo04.PNG"  width="800px"/>
-<img src="https://github.com/cemilkendir/12122024/blob/main/Photos/Photo05.PNG"  width="800px"/> 
